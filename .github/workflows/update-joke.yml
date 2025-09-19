@@ -2,43 +2,51 @@ name: Update Joke
 
 on:
   push:
-    branches: [main]
+    branches: [main]        # run on every push to main
   schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+    - cron: "0 */12 * * *"  # every 12 hours (UTC)
+  workflow_dispatch:         # allow manual trigger
 
 jobs:
   update-readme:
+    name: Update README with new joke
     runs-on: ubuntu-latest
     steps:
+      # Checkout repo
       - uses: actions/checkout@v4
 
+      # Setup Node.js
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: "20"
 
+      # Install dependencies
       - name: Install dependencies
         run: npm install
 
+      # Build TypeScript project
       - name: Build project
         run: npm run build
 
+      # Generate a joke and update README
       - name: Update README with Joke
         run: |
           JOKE=$(node dist/bot.js)
+          echo "New joke: $JOKE"
           node -e "const fs = require('fs');
           const joke = process.env.JOKE;
           const readme = fs.readFileSync('README.md', 'utf-8');
           const updated = readme.replace(/<!-- JOKE_START -->[\\s\\S]*<!-- JOKE_END -->/, \`<!-- JOKE_START -->\\n\${joke}\\n<!-- JOKE_END -->\`);
           fs.writeFileSync('README.md', updated);"
         env:
-          JOKE: ${{ steps.generate.outputs.joke }}
+          JOKE: ${{ steps.generate.outputs.joke || 'No joke generated' }}
 
+      # Commit & push updated README
       - name: Commit Joke
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
           git diff --quiet && git diff --staged --quiet || git commit -m "Update joke"
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main
+          git push "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" HEAD:main
