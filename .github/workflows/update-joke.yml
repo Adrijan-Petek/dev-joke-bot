@@ -1,9 +1,12 @@
 name: Update Joke
 
 on:
+  push:                # run on every push to main
+    branches:
+      - main
   schedule:
     - cron: "0 */12 * * *" # every 12 hours (UTC)
-  workflow_dispatch:        # manual trigger button
+  workflow_dispatch:        # manual trigger
 
 jobs:
   update-readme:
