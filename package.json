@@ -1,7 +1,9 @@
 {
   "name": "dev-joke-bot",
   "version": "1.0.0",
-  "bin": { "dev-joke-bot": "bin/cli.js" },
+  "bin": {
+    "dev-joke-bot": "bin/cli.js"
+  },
   "type": "module",
   "scripts": {
     "build": "tsc",
@@ -10,9 +12,11 @@
   },
   "dependencies": {
     "chalk": "^5.3.0",
-    "gradient-string": "^2.0.1"
+    "gradient-string": "^2.0.2"
   },
   "devDependencies": {
-    "typescript": "^5.4.0"
+    "typescript": "^5.4.0",
+    "@types/node": "^20.0.0",
+    "@types/gradient-string": "^2.0.0"
   }
 }
