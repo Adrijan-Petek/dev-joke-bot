@@ -14,7 +14,7 @@ Welcome to the **funniest repo on GitHub**. This README is automatically updated
 ## Dev Joke (auto-updated every 12 hours)
 
 <!-- JOKE_START -->
-Programmer: A machine that turns coffee into code.
+Life would be easier if we just had a GUI for everything.
 <!-- JOKE_END -->
 
 ---
