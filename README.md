@@ -14,7 +14,7 @@ Welcome to the **funniest repo on GitHub**. This README is automatically updated
 ## Dev Joke (auto-updated every 12 hours)
 
 <!-- JOKE_START -->
-Debugging: Being the detective in a crime movie where you are also the murderer.
+A user interface is like a joke. If you have to explain it, it’s not that good.
 <!-- JOKE_END -->
 
 ---
