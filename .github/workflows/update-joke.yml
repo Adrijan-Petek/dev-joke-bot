@@ -28,7 +28,7 @@ jobs:
         with:
           node-version: "20"
 
-      # Install dependencies (works without package-lock.json)
+      # Install dependencies
       - name: Install dependencies
         run: npm install
 
@@ -40,25 +40,27 @@ jobs:
       - name: Generate joke
         id: generate-joke
         run: |
-          JOKE=$(node dist/bot.js)
+          # Run Node script and safely escape it for JSON
+          JOKE=$(node dist/bot.js | jq -Rs .)
           echo "Generated joke: $JOKE"
-          # Use JSON encoding to safely pass special characters
-          echo "joke=$(jq -Rn --arg val "$JOKE" '$val')" >> $GITHUB_OUTPUT
+          echo "joke=$JOKE" >> $GITHUB_OUTPUT
 
       # Update README with the generated joke
       - name: Update README with Joke
         run: |
-          node -e "
-          const fs = require('fs');
-          const joke = JSON.parse('${{ steps.generate-joke.outputs.joke }}');
-          const readme = fs.readFileSync('README.md', 'utf-8');
+          node -e '
+          const fs = require("fs");
+          const joke = JSON.parse(process.env.JOKE);
+          const readme = fs.readFileSync("README.md", "utf-8");
           const updated = readme.replace(
-            /<!-- JOKE_START -->[\\s\\S]*<!-- JOKE_END -->/, 
-            \`<!-- JOKE_START -->\n\${joke}\n<!-- JOKE_END -->\`
+            /<!-- JOKE_START -->[\s\S]*<!-- JOKE_END -->/, 
+            `<!-- JOKE_START -->\n${joke}\n<!-- JOKE_END -->`
           );
-          fs.writeFileSync('README.md', updated);
-          console.log('README updated with new joke');
-          "
+          fs.writeFileSync("README.md", updated);
+          console.log("README updated with new joke");
+          '
+        env:
+          JOKE: ${{ steps.generate-joke.outputs.joke }}
 
       # Commit & push updated README
       - name: Commit and Push Joke
