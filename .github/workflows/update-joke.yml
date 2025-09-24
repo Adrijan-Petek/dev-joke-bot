@@ -2,23 +2,25 @@ name: Update Joke
 
 on:
   push:
-    branches: [main]        # run on every push to main
+    branches:
+      - main
+    # Ignore commits made by the bot to prevent infinite loops
+    paths-ignore:
+      - README.md
   schedule:
     - cron: "0 */12 * * *"  # every 12 hours (UTC)
-  workflow_dispatch:         # allow manual trigger
+  workflow_dispatch:         # manual trigger
 
 jobs:
   update-readme:
     name: Update README with new joke
     runs-on: ubuntu-latest
     permissions:
-      contents: write    # This grants push permissions
-    
+      contents: write  # allow pushing changes
+
     steps:
-      # Checkout repo
+      # Checkout repository
       - uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}  # Important for push access
 
       # Setup Node.js
       - name: Setup Node.js
@@ -26,32 +28,33 @@ jobs:
         with:
           node-version: "20"
 
-      # Install dependencies
+      # Install dependencies safely
       - name: Install dependencies
-        run: npm install
+        run: npm ci --prefer-offline --no-audit --progress=false
 
       # Build TypeScript project
       - name: Build project
         run: npm run build
 
-      # Generate a joke and update README
+      # Generate joke
       - name: Generate joke
         id: generate-joke
         run: |
           JOKE=$(node dist/bot.js)
           echo "Generated joke: $JOKE"
-          echo "joke=$JOKE" >> $GITHUB_OUTPUT
+          # Use JSON encoding to safely pass special characters
+          echo "joke=$(jq -Rn --arg val "$JOKE" '$val')" >> $GITHUB_OUTPUT
 
       # Update README with the generated joke
       - name: Update README with Joke
         run: |
           node -e "
           const fs = require('fs');
-          const joke = '${{ steps.generate-joke.outputs.joke }}';
+          const joke = JSON.parse('${{ steps.generate-joke.outputs.joke }}');
           const readme = fs.readFileSync('README.md', 'utf-8');
           const updated = readme.replace(
             /<!-- JOKE_START -->[\\s\\S]*<!-- JOKE_END -->/, 
-            \`<!-- JOKE_START -->\\n\${joke}\\n<!-- JOKE_END -->\`
+            \`<!-- JOKE_START -->\n\${joke}\n<!-- JOKE_END -->\`
           );
           fs.writeFileSync('README.md', updated);
           console.log('README updated with new joke');
@@ -63,7 +66,6 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          # Check if there are changes to commit
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
