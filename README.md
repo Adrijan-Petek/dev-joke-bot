@@ -14,7 +14,7 @@ Welcome to the **funniest repo on GitHub**. This README is automatically updated
 ## Dev Joke (auto-updated every 12 hours)
 
 <!-- JOKE_START -->
-Git happens.
+Why do Java developers wear glasses? Because they don't C#.
 
 <!-- JOKE_END -->
 
