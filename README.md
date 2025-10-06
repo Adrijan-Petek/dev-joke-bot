@@ -14,7 +14,7 @@ Welcome to the **funniest repo on GitHub**. This README is automatically updated
 ## Dev Joke (auto-updated every 12 hours)
 
 <!-- JOKE_START -->
-Old programmers never die, they just lose their memory.
+0 is false and 1 is true, right? 1
 
 <!-- JOKE_END -->
 
