@@ -14,7 +14,7 @@ Welcome to the **funniest repo on GitHub**. This README is automatically updated
 ## Dev Joke (auto-updated every 12 hours)
 
 <!-- JOKE_START -->
-Why do Java developers wear glasses? Because they don't C#.
+To understand recursion, you must first understand recursion.
 
 <!-- JOKE_END -->
 
