@@ -14,7 +14,7 @@ Welcome to the **funniest repo on GitHub**. This README is automatically updated
 ## Dev Joke (auto-updated every 12 hours)
 
 <!-- JOKE_START -->
-To understand recursion, you must first understand recursion.
+I don't always test my code, but when I do, I do it in production.
 
 <!-- JOKE_END -->
 
