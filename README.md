@@ -14,7 +14,7 @@ Welcome to the **funniest repo on GitHub**. This README is automatically updated
 ## Dev Joke (auto-updated every 12 hours)
 
 <!-- JOKE_START -->
-Why do programmers prefer dark mode? Because light attracts bugs.
+0 is false and 1 is true, right? 1
 
 <!-- JOKE_END -->
 
