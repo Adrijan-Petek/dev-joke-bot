@@ -14,7 +14,7 @@ Welcome to the **funniest repo on GitHub**. This README is automatically updated
 ## Dev Joke (auto-updated every 12 hours)
 
 <!-- JOKE_START -->
-Why did the programmer quit his job? Because he didn't get arrays.
+A programmer had a problem and decided to use Java. Now they have a ProblemFactory.
 
 <!-- JOKE_END -->
 
