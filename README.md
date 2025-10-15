@@ -14,7 +14,7 @@ Welcome to the **funniest repo on GitHub**. This README is automatically updated
 ## Dev Joke (auto-updated every 12 hours)
 
 <!-- JOKE_START -->
-Programmer's spouse: 'Go to the store and get a loaf of bread. If they have eggs, get a dozen.' Programmer comes back with 12 loaves of bread.
+To understand recursion, you must first understand recursion.
 
 <!-- JOKE_END -->
 
