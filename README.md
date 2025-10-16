@@ -14,7 +14,7 @@ Welcome to the **funniest repo on GitHub**. This README is automatically updated
 ## Dev Joke (auto-updated every 12 hours)
 
 <!-- JOKE_START -->
-Why did the developer go broke? Because he used up all his cache.
+A SQL query walks into a bar, walks up to two tables and asks, 'Can I join you?'
 
 <!-- JOKE_END -->
 
