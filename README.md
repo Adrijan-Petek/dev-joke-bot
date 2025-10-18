@@ -14,7 +14,7 @@ Welcome to the **funniest repo on GitHub**. This README is automatically updated
 ## Dev Joke (auto-updated every 12 hours)
 
 <!-- JOKE_START -->
-There’s no place like 127.0.0.1
+Why do programmers prefer dark mode? Because light attracts bugs.
 
 <!-- JOKE_END -->
 
