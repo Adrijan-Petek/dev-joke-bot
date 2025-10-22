@@ -14,7 +14,7 @@ Welcome to the **funniest repo on GitHub**. This README is automatically updated
 ## Dev Joke (auto-updated every 12 hours)
 
 <!-- JOKE_START -->
-There are only 10 types of people in the world: those who understand binary and those who don't.
+Programmer: A machine that turns coffee into code.
 
 <!-- JOKE_END -->
 
