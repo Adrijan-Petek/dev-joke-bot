@@ -14,7 +14,7 @@ Welcome to the **funniest repo on GitHub**. This README is automatically updated
 ## Dev Joke (auto-updated every 12 hours)
 
 <!-- JOKE_START -->
-Life would be easier if we just had a GUI for everything.
+There’s no place like 127.0.0.1
 
 <!-- JOKE_END -->
 
