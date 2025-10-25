@@ -14,7 +14,7 @@ Welcome to the **funniest repo on GitHub**. This README is automatically updated
 ## Dev Joke (auto-updated every 12 hours)
 
 <!-- JOKE_START -->
-Debugging: Being the detective in a crime movie where you are also the murderer.
+A SQL query walks into a bar, walks up to two tables and asks, 'Can I join you?'
 
 <!-- JOKE_END -->
 
