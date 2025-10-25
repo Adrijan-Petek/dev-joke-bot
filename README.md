@@ -14,7 +14,7 @@ Welcome to the **funniest repo on GitHub**. This README is automatically updated
 ## Dev Joke (auto-updated every 12 hours)
 
 <!-- JOKE_START -->
-A SQL query walks into a bar, walks up to two tables and asks, 'Can I join you?'
+Old programmers never die, they just lose their memory.
 
 <!-- JOKE_END -->
 
