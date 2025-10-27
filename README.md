@@ -14,7 +14,7 @@ Welcome to the **funniest repo on GitHub**. This README is automatically updated
 ## Dev Joke (auto-updated every 12 hours)
 
 <!-- JOKE_START -->
-Old programmers never die, they just lose their memory.
+I would love to change the world, but they won’t give me the source code.
 
 <!-- JOKE_END -->
 
