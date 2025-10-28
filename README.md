@@ -14,7 +14,7 @@ Welcome to the **funniest repo on GitHub**. This README is automatically updated
 ## Dev Joke (auto-updated every 12 hours)
 
 <!-- JOKE_START -->
-I would love to change the world, but they won’t give me the source code.
+Programmer: A machine that turns coffee into code.
 
 <!-- JOKE_END -->
 
