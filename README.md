@@ -14,7 +14,7 @@ Welcome to the **funniest repo on GitHub**. This README is automatically updated
 ## Dev Joke (auto-updated every 12 hours)
 
 <!-- JOKE_START -->
-Programmer: A machine that turns coffee into code.
+To understand recursion, you must first understand recursion.
 
 <!-- JOKE_END -->
 
