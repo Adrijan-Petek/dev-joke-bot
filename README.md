@@ -130,6 +130,11 @@ npx dev-joke-bot --category Languages --color mind
 ## Dev Joke (auto-updated every 12 hours)
 
 <!-- JOKE_START -->
+💻 Dev Joke 💻
+📂 Category: Languages
+
+Why do Java developers wear glasses? Because they don't C#.| | | | | 
+
 
 <!-- JOKE_END -->
 
