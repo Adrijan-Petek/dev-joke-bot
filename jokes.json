@@ -1,0 +1,104 @@
+{
+  "jokes": [
+    {
+      "text": "Why do programmers prefer dark mode? Because light attracts bugs.",
+      "category": "General",
+      "tags": ["dark-mode", "bugs"]
+    },
+    {
+      "text": "A SQL query walks into a bar, walks up to two tables and asks, 'Can I join you?'",
+      "category": "SQL",
+      "tags": ["database", "join"]
+    },
+    {
+      "text": "Why do Java developers wear glasses? Because they don't C#.",
+      "category": "Languages",
+      "tags": ["java", "csharp"]
+    },
+    {
+      "text": "There are only 10 types of people in the world: those who understand binary and those who don't.",
+      "category": "General",
+      "tags": ["binary", "classic"]
+    },
+    {
+      "text": "Debugging: Being the detective in a crime movie where you are also the murderer.",
+      "category": "Debugging",
+      "tags": ["debugging", "detective"]
+    },
+    {
+      "text": "Programmer: A machine that turns coffee into code.",
+      "category": "General",
+      "tags": ["coffee", "productivity"]
+    },
+    {
+      "text": "I don't always test my code, but when I do, I do it in production.",
+      "category": "Testing",
+      "tags": ["testing", "production"]
+    },
+    {
+      "text": "Why did the programmer quit his job? Because he didn't get arrays.",
+      "category": "General",
+      "tags": ["arrays", "pun"]
+    },
+    {
+      "text": "In a world without fences and walls, who needs Gates and Windows?",
+      "category": "OS",
+      "tags": ["microsoft", "linux"]
+    },
+    {
+      "text": "Git happens.",
+      "category": "Git",
+      "tags": ["git", "version-control"]
+    },
+    {
+      "text": "0 is false and 1 is true, right? 1",
+      "category": "General",
+      "tags": ["binary", "logic"]
+    },
+    {
+      "text": "There's no place like 127.0.0.1",
+      "category": "Network",
+      "tags": ["localhost", "home"]
+    },
+    {
+      "text": "I would love to change the world, but they won't give me the source code.",
+      "category": "General",
+      "tags": ["open-source", "philosophy"]
+    },
+    {
+      "text": "A programmer had a problem and decided to use Java. Now they have a ProblemFactory.",
+      "category": "Languages",
+      "tags": ["java", "design-patterns"]
+    },
+    {
+      "text": "Programmer's spouse: 'Go to the store and get a loaf of bread. If they have eggs, get a dozen.' Programmer comes back with 12 loaves of bread.",
+      "category": "General",
+      "tags": ["logic", "relationships"]
+    },
+    {
+      "text": "Why did the developer go broke? Because he used up all his cache.",
+      "category": "General",
+      "tags": ["cache", "memory"]
+    },
+    {
+      "text": "Life would be easier if we just had a GUI for everything.",
+      "category": "General",
+      "tags": ["ui", "cli"]
+    },
+    {
+      "text": "Old programmers never die, they just lose their memory.",
+      "category": "General",
+      "tags": ["memory", "aging"]
+    },
+    {
+      "text": "To understand recursion, you must first understand recursion.",
+      "category": "Algorithms",
+      "tags": ["recursion", "meta"]
+    },
+    {
+      "text": "A user interface is like a joke. If you have to explain it, it's not that good.",
+      "category": "UI/UX",
+      "tags": ["ui", "design"]
+    }
+  ]
+}
