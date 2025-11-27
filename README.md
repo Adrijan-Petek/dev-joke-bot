@@ -131,9 +131,9 @@ npx dev-joke-bot --category Languages --color mind
 
 <!-- JOKE_START -->
 💻 Dev Joke 💻
-📂 Category: Languages
+📂 Category: General
 
-Why do Java developers wear glasses? Because they don't C#.| | | | | 
+Old programmers never die, they just lose their memory.| | | | | 
 
 
 <!-- JOKE_END -->
