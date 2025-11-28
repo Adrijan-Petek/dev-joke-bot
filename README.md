@@ -131,9 +131,9 @@ npx dev-joke-bot --category Languages --color mind
 
 <!-- JOKE_START -->
 💻 Dev Joke 💻
-📂 Category: Git
+📂 Category: General
 
-Git happens.| | | | | 
+Why did the programmer quit his job? Because he didn't get arrays.| | | | | 
 
 
 <!-- JOKE_END -->
