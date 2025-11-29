@@ -185,7 +185,7 @@ Have a funny dev joke? Want to add more features? Submit a PR or issue!
 
 MIT - Feel free to use this however you want!
 
----
+--- 
 
 Made with ❤️ and lots of ☕
 ````
