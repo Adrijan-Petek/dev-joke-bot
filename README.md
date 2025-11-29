@@ -131,9 +131,9 @@ npx dev-joke-bot --category Languages --color mind
 
 <!-- JOKE_START -->
 💻 Dev Joke 💻
-📂 Category: General
+📂 Category: Debugging
 
-0 is false and 1 is true, right? 1| | | | | 
+Debugging: Being the detective in a crime movie where you are also the murderer.| | | | | 
 
 
 <!-- JOKE_END -->
