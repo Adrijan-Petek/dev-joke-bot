@@ -131,9 +131,9 @@ npx dev-joke-bot --category Languages --color mind
 
 <!-- JOKE_START -->
 💻 Dev Joke 💻
-📂 Category: Testing
+📂 Category: Debugging
 
-I don't always test my code, but when I do, I do it in production.| | | | | 
+Debugging: Being the detective in a crime movie where you are also the murderer.| | | | | 
 
 
 <!-- JOKE_END -->
