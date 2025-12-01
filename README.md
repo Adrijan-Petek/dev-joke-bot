@@ -133,7 +133,7 @@ npx dev-joke-bot --category Languages --color mind
 💻 Dev Joke 💻
 📂 Category: General
 
-I would love to change the world, but they won't give me the source code.| | | | | 
+Old programmers never die, they just lose their memory.| | | | | 
 
 
 <!-- JOKE_END -->
