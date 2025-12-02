@@ -133,7 +133,7 @@ npx dev-joke-bot --category Languages --color mind
 💻 Dev Joke 💻
 📂 Category: General
 
-Old programmers never die, they just lose their memory.| | | | | 
+I would love to change the world, but they won't give me the source code.| | | | | 
 
 
 <!-- JOKE_END -->
