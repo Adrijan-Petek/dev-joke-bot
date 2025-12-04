@@ -133,7 +133,7 @@ npx dev-joke-bot --category Languages --color mind
 💻 Dev Joke 💻
 📂 Category: General
 
-Old programmers never die, they just lose their memory.| | | | | 
+Why do programmers prefer dark mode? Because light attracts bugs.| | | | | 
 
 
 <!-- JOKE_END -->
