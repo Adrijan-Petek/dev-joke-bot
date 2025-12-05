@@ -131,9 +131,9 @@ npx dev-joke-bot --category Languages --color mind
 
 <!-- JOKE_START -->
 💻 Dev Joke 💻
-📂 Category: UI/UX
+📂 Category: General
 
-A user interface is like a joke. If you have to explain it, it's not that good.| | | | | 
+Programmer's spouse: 'Go to the store and get a loaf of bread. If they have eggs, get a dozen.' Programmer comes back with 12 loaves of bread.| | | | | 
 
 
 <!-- JOKE_END -->
