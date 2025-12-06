@@ -131,9 +131,9 @@ npx dev-joke-bot --category Languages --color mind
 
 <!-- JOKE_START -->
 💻 Dev Joke 💻
-📂 Category: Debugging
+📂 Category: General
 
-Debugging: Being the detective in a crime movie where you are also the murderer.| | | | | 
+I would love to change the world, but they won't give me the source code.| | | | | 
 
 
 <!-- JOKE_END -->
