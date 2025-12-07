@@ -131,9 +131,9 @@ npx dev-joke-bot --category Languages --color mind
 
 <!-- JOKE_START -->
 💻 Dev Joke 💻
-📂 Category: General
+📂 Category: Git
 
-I would love to change the world, but they won't give me the source code.| | | | | 
+Git happens.| | | | | 
 
 
 <!-- JOKE_END -->
