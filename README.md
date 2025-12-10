@@ -131,9 +131,9 @@ npx dev-joke-bot --category Languages --color mind
 
 <!-- JOKE_START -->
 💻 Dev Joke 💻
-📂 Category: Algorithms
+📂 Category: Network
 
-To understand recursion, you must first understand recursion.| | | | | 
+There's no place like 127.0.0.1| | | | | 
 
 
 <!-- JOKE_END -->
