@@ -131,9 +131,9 @@ npx dev-joke-bot --category Languages --color mind
 
 <!-- JOKE_START -->
 💻 Dev Joke 💻
-📂 Category: UI/UX
+📂 Category: Languages
 
-A user interface is like a joke. If you have to explain it, it's not that good.| | | | | 
+Why do Java developers wear glasses? Because they don't C#.| | | | | 
 
 
 <!-- JOKE_END -->
