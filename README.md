@@ -131,9 +131,9 @@ npx dev-joke-bot --category Languages --color mind
 
 <!-- JOKE_START -->
 💻 Dev Joke 💻
-📂 Category: SQL
+📂 Category: General
 
-A SQL query walks into a bar, walks up to two tables and asks, 'Can I join you?'| | | | | 
+Programmer's spouse: 'Go to the store and get a loaf of bread. If they have eggs, get a dozen.' Programmer comes back with 12 loaves of bread.| | | | | 
 
 
 <!-- JOKE_END -->
