@@ -131,9 +131,9 @@ npx dev-joke-bot --category Languages --color mind
 
 <!-- JOKE_START -->
 💻 Dev Joke 💻
-📂 Category: General
+📂 Category: Git
 
-Programmer's spouse: 'Go to the store and get a loaf of bread. If they have eggs, get a dozen.' Programmer comes back with 12 loaves of bread.| | | | | 
+Git happens.| | | | | 
 
 
 <!-- JOKE_END -->
