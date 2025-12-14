@@ -133,7 +133,7 @@ npx dev-joke-bot --category Languages --color mind
 💻 Dev Joke 💻
 📂 Category: General
 
-Why do programmers prefer dark mode? Because light attracts bugs.| | | | | 
+Life would be easier if we just had a GUI for everything.| | | | | 
 
 
 <!-- JOKE_END -->
