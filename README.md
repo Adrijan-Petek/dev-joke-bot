@@ -131,9 +131,9 @@ npx dev-joke-bot --category Languages --color mind
 
 <!-- JOKE_START -->
 💻 Dev Joke 💻
-📂 Category: Git
+📂 Category: General
 
-Git happens.| | | | | 
+Life would be easier if we just had a GUI for everything.| | | | | 
 
 
 <!-- JOKE_END -->
