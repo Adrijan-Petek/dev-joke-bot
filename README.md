@@ -131,9 +131,9 @@ npx dev-joke-bot --category Languages --color mind
 
 <!-- JOKE_START -->
 💻 Dev Joke 💻
-📂 Category: General
+📂 Category: SQL
 
-Life would be easier if we just had a GUI for everything.| | | | | 
+A SQL query walks into a bar, walks up to two tables and asks, 'Can I join you?'| | | | | 
 
 
 <!-- JOKE_END -->
