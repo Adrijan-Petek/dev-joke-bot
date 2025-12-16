@@ -133,7 +133,7 @@ npx dev-joke-bot --category Languages --color mind
 💻 Dev Joke 💻
 📂 Category: General
 
-Life would be easier if we just had a GUI for everything.| | | | | 
+Programmer's spouse: 'Go to the store and get a loaf of bread. If they have eggs, get a dozen.' Programmer comes back with 12 loaves of bread.| | | | | 
 
 
 <!-- JOKE_END -->
