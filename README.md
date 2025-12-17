@@ -133,7 +133,7 @@ npx dev-joke-bot --category Languages --color mind
 💻 Dev Joke 💻
 📂 Category: General
 
-There are only 10 types of people in the world: those who understand binary and those who don't.| | | | | 
+Life would be easier if we just had a GUI for everything.| | | | | 
 
 
 <!-- JOKE_END -->
