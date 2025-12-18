@@ -131,9 +131,9 @@ npx dev-joke-bot --category Languages --color mind
 
 <!-- JOKE_START -->
 💻 Dev Joke 💻
-📂 Category: Algorithms
+📂 Category: Languages
 
-To understand recursion, you must first understand recursion.| | | | | 
+Why do Java developers wear glasses? Because they don't C#.| | | | | 
 
 
 <!-- JOKE_END -->
