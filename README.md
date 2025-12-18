@@ -131,9 +131,9 @@ npx dev-joke-bot --category Languages --color mind
 
 <!-- JOKE_START -->
 💻 Dev Joke 💻
-📂 Category: General
+📂 Category: Algorithms
 
-Life would be easier if we just had a GUI for everything.| | | | | 
+To understand recursion, you must first understand recursion.| | | | | 
 
 
 <!-- JOKE_END -->
