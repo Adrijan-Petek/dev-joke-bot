@@ -131,9 +131,9 @@ npx dev-joke-bot --category Languages --color mind
 
 <!-- JOKE_START -->
 💻 Dev Joke 💻
-📂 Category: Languages
+📂 Category: UI/UX
 
-Why do Java developers wear glasses? Because they don't C#.| | | | | 
+A user interface is like a joke. If you have to explain it, it's not that good.| | | | | 
 
 
 <!-- JOKE_END -->
