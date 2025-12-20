@@ -131,9 +131,9 @@ npx dev-joke-bot --category Languages --color mind
 
 <!-- JOKE_START -->
 💻 Dev Joke 💻
-📂 Category: General
+📂 Category: Testing
 
-0 is false and 1 is true, right? 1| | | | | 
+I don't always test my code, but when I do, I do it in production.| | | | | 
 
 
 <!-- JOKE_END -->
