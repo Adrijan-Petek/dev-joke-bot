@@ -131,9 +131,9 @@ npx dev-joke-bot --category Languages --color mind
 
 <!-- JOKE_START -->
 💻 Dev Joke 💻
-📂 Category: Languages
+📂 Category: General
 
-A programmer had a problem and decided to use Java. Now they have a ProblemFactory.| | | | | 
+I would love to change the world, but they won't give me the source code.| | | | | 
 
 
 <!-- JOKE_END -->
