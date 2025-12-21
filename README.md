@@ -131,9 +131,9 @@ npx dev-joke-bot --category Languages --color mind
 
 <!-- JOKE_START -->
 💻 Dev Joke 💻
-📂 Category: Testing
+📂 Category: Languages
 
-I don't always test my code, but when I do, I do it in production.| | | | | 
+A programmer had a problem and decided to use Java. Now they have a ProblemFactory.| | | | | 
 
 
 <!-- JOKE_END -->
