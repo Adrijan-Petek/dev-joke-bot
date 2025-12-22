@@ -133,7 +133,7 @@ npx dev-joke-bot --category Languages --color mind
 💻 Dev Joke 💻
 📂 Category: General
 
-I would love to change the world, but they won't give me the source code.| | | | | 
+There are only 10 types of people in the world: those who understand binary and those who don't.| | | | | 
 
 
 <!-- JOKE_END -->
