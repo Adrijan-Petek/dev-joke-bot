@@ -131,9 +131,9 @@ npx dev-joke-bot --category Languages --color mind
 
 <!-- JOKE_START -->
 💻 Dev Joke 💻
-📂 Category: General
+📂 Category: Git
 
-There are only 10 types of people in the world: those who understand binary and those who don't.| | | | | 
+Git happens.| | | | | 
 
 
 <!-- JOKE_END -->
