@@ -131,9 +131,9 @@ npx dev-joke-bot --category Languages --color mind
 
 <!-- JOKE_START -->
 💻 Dev Joke 💻
-📂 Category: General
+📂 Category: Network
 
-Why do programmers prefer dark mode? Because light attracts bugs.| | | | | 
+There's no place like 127.0.0.1| | | | | 
 
 
 <!-- JOKE_END -->
