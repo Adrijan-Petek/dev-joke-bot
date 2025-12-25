@@ -133,7 +133,7 @@ npx dev-joke-bot --category Languages --color mind
 💻 Dev Joke 💻
 📂 Category: General
 
-Why did the developer go broke? Because he used up all his cache.| | | | | 
+Programmer: A machine that turns coffee into code.| | | | | 
 
 
 <!-- JOKE_END -->
