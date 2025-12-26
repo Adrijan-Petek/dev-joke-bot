@@ -131,9 +131,9 @@ npx dev-joke-bot --category Languages --color mind
 
 <!-- JOKE_START -->
 💻 Dev Joke 💻
-📂 Category: General
+📂 Category: Git
 
-0 is false and 1 is true, right? 1| | | | | 
+Git happens.| | | | | 
 
 
 <!-- JOKE_END -->
