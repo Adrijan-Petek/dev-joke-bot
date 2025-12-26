@@ -131,9 +131,9 @@ npx dev-joke-bot --category Languages --color mind
 
 <!-- JOKE_START -->
 💻 Dev Joke 💻
-📂 Category: Git
+📂 Category: General
 
-Git happens.| | | | | 
+Old programmers never die, they just lose their memory.| | | | | 
 
 
 <!-- JOKE_END -->
