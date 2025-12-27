@@ -131,9 +131,9 @@ npx dev-joke-bot --category Languages --color mind
 
 <!-- JOKE_START -->
 💻 Dev Joke 💻
-📂 Category: Algorithms
+📂 Category: OS
 
-To understand recursion, you must first understand recursion.| | | | | 
+In a world without fences and walls, who needs Gates and Windows?| | | | | 
 
 
 <!-- JOKE_END -->
