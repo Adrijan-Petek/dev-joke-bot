@@ -131,9 +131,9 @@ npx dev-joke-bot --category Languages --color mind
 
 <!-- JOKE_START -->
 💻 Dev Joke 💻
-📂 Category: General
+📂 Category: Algorithms
 
-Old programmers never die, they just lose their memory.| | | | | 
+To understand recursion, you must first understand recursion.| | | | | 
 
 
 <!-- JOKE_END -->
