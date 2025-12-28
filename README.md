@@ -131,9 +131,9 @@ npx dev-joke-bot --category Languages --color mind
 
 <!-- JOKE_START -->
 💻 Dev Joke 💻
-📂 Category: OS
+📂 Category: Algorithms
 
-In a world without fences and walls, who needs Gates and Windows?| | | | | 
+To understand recursion, you must first understand recursion.| | | | | 
 
 
 <!-- JOKE_END -->
