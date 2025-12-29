@@ -133,7 +133,7 @@ npx dev-joke-bot --category Languages --color mind
 💻 Dev Joke 💻
 📂 Category: General
 
-Why did the developer go broke? Because he used up all his cache.| | | | | 
+Why did the programmer quit his job? Because he didn't get arrays.| | | | | 
 
 
 <!-- JOKE_END -->
