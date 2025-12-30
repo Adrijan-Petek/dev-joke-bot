@@ -131,9 +131,9 @@ npx dev-joke-bot --category Languages --color mind
 
 <!-- JOKE_START -->
 💻 Dev Joke 💻
-📂 Category: General
+📂 Category: UI/UX
 
-Why did the programmer quit his job? Because he didn't get arrays.| | | | | 
+A user interface is like a joke. If you have to explain it, it's not that good.| | | | | 
 
 
 <!-- JOKE_END -->
