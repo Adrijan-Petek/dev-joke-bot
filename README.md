@@ -131,9 +131,9 @@ npx dev-joke-bot --category Languages --color mind
 
 <!-- JOKE_START -->
 💻 Dev Joke 💻
-📂 Category: Network
+📂 Category: Languages
 
-There's no place like 127.0.0.1| | | | | 
+Why do Java developers wear glasses? Because they don't C#.| | | | | 
 
 
 <!-- JOKE_END -->
