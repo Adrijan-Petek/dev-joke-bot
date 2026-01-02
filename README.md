@@ -131,9 +131,9 @@ npx dev-joke-bot --category Languages --color mind
 
 <!-- JOKE_START -->
 💻 Dev Joke 💻
-📂 Category: General
+📂 Category: Languages
 
-Why did the developer go broke? Because he used up all his cache.| | | | | 
+A programmer had a problem and decided to use Java. Now they have a ProblemFactory.| | | | | 
 
 
 <!-- JOKE_END -->
