@@ -131,9 +131,9 @@ npx dev-joke-bot --category Languages --color mind
 
 <!-- JOKE_START -->
 💻 Dev Joke 💻
-📂 Category: Languages
+📂 Category: General
 
-A programmer had a problem and decided to use Java. Now they have a ProblemFactory.| | | | | 
+0 is false and 1 is true, right? 1| | | | | 
 
 
 <!-- JOKE_END -->
