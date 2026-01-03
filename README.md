@@ -131,9 +131,9 @@ npx dev-joke-bot --category Languages --color mind
 
 <!-- JOKE_START -->
 💻 Dev Joke 💻
-📂 Category: Algorithms
+📂 Category: General
 
-To understand recursion, you must first understand recursion.| | | | | 
+Why do programmers prefer dark mode? Because light attracts bugs.| | | | | 
 
 
 <!-- JOKE_END -->
