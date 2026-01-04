@@ -131,9 +131,9 @@ npx dev-joke-bot --category Languages --color mind
 
 <!-- JOKE_START -->
 💻 Dev Joke 💻
-📂 Category: OS
+📂 Category: Debugging
 
-In a world without fences and walls, who needs Gates and Windows?| | | | | 
+Debugging: Being the detective in a crime movie where you are also the murderer.| | | | | 
 
 
 <!-- JOKE_END -->
