@@ -131,9 +131,9 @@ npx dev-joke-bot --category Languages --color mind
 
 <!-- JOKE_START -->
 💻 Dev Joke 💻
-📂 Category: Network
+📂 Category: General
 
-There's no place like 127.0.0.1| | | | | 
+Why did the programmer quit his job? Because he didn't get arrays.| | | | | 
 
 
 <!-- JOKE_END -->
