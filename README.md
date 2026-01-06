@@ -131,9 +131,9 @@ npx dev-joke-bot --category Languages --color mind
 
 <!-- JOKE_START -->
 💻 Dev Joke 💻
-📂 Category: General
+📂 Category: OS
 
-0 is false and 1 is true, right? 1| | | | | 
+In a world without fences and walls, who needs Gates and Windows?| | | | | 
 
 
 <!-- JOKE_END -->
