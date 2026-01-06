@@ -133,7 +133,7 @@ npx dev-joke-bot --category Languages --color mind
 💻 Dev Joke 💻
 📂 Category: General
 
-Why did the programmer quit his job? Because he didn't get arrays.| | | | | 
+0 is false and 1 is true, right? 1| | | | | 
 
 
 <!-- JOKE_END -->
