@@ -131,9 +131,9 @@ npx dev-joke-bot --category Languages --color mind
 
 <!-- JOKE_START -->
 💻 Dev Joke 💻
-📂 Category: OS
+📂 Category: Languages
 
-In a world without fences and walls, who needs Gates and Windows?| | | | | 
+Why do Java developers wear glasses? Because they don't C#.| | | | | 
 
 
 <!-- JOKE_END -->
