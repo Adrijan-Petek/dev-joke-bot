@@ -131,9 +131,9 @@ npx dev-joke-bot --category Languages --color mind
 
 <!-- JOKE_START -->
 💻 Dev Joke 💻
-📂 Category: Languages
+📂 Category: General
 
-Why do Java developers wear glasses? Because they don't C#.| | | | | 
+Programmer: A machine that turns coffee into code.| | | | | 
 
 
 <!-- JOKE_END -->
