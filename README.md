@@ -131,9 +131,9 @@ npx dev-joke-bot --category Languages --color mind
 
 <!-- JOKE_START -->
 💻 Dev Joke 💻
-📂 Category: General
+📂 Category: Algorithms
 
-Programmer: A machine that turns coffee into code.| | | | | 
+To understand recursion, you must first understand recursion.| | | | | 
 
 
 <!-- JOKE_END -->
