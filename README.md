@@ -131,9 +131,9 @@ npx dev-joke-bot --category Languages --color mind
 
 <!-- JOKE_START -->
 💻 Dev Joke 💻
-📂 Category: Algorithms
+📂 Category: SQL
 
-To understand recursion, you must first understand recursion.| | | | | 
+A SQL query walks into a bar, walks up to two tables and asks, 'Can I join you?'| | | | | 
 
 
 <!-- JOKE_END -->
