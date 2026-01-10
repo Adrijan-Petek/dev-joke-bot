@@ -133,7 +133,7 @@ npx dev-joke-bot --category Languages --color mind
 💻 Dev Joke 💻
 📂 Category: General
 
-Life would be easier if we just had a GUI for everything.| | | | | 
+Old programmers never die, they just lose their memory.| | | | | 
 
 
 <!-- JOKE_END -->
