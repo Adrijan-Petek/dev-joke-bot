@@ -133,7 +133,7 @@ npx dev-joke-bot --category Languages --color mind
 💻 Dev Joke 💻
 📂 Category: General
 
-0 is false and 1 is true, right? 1| | | | | 
+Life would be easier if we just had a GUI for everything.| | | | | 
 
 
 <!-- JOKE_END -->
