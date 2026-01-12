@@ -132,9 +132,9 @@ npx dev-joke-bot --category Languages --color mind
 
 <!-- JOKE_START -->
 💻 Dev Joke 💻
-📂 Category: SQL
+📂 Category: General
 
-A SQL query walks into a bar, walks up to two tables and asks, 'Can I join you?'| | | | | 
+Programmer: A machine that turns coffee into code.| | | | | 
 
 
 <!-- JOKE_END -->
