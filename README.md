@@ -132,9 +132,9 @@ npx dev-joke-bot --category Languages --color mind
 
 <!-- JOKE_START -->
 💻 Dev Joke 💻
-📂 Category: General
+📂 Category: Testing
 
-There are only 10 types of people in the world: those who understand binary and those who don't.| | | | | 
+I don't always test my code, but when I do, I do it in production.| | | | | 
 
 
 <!-- JOKE_END -->
