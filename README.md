@@ -132,9 +132,9 @@ npx dev-joke-bot --category Languages --color mind
 
 <!-- JOKE_START -->
 💻 Dev Joke 💻
-📂 Category: Testing
+📂 Category: Network
 
-I don't always test my code, but when I do, I do it in production.| | | | | 
+There's no place like 127.0.0.1| | | | | 
 
 
 <!-- JOKE_END -->
