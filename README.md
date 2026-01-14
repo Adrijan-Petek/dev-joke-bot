@@ -132,9 +132,9 @@ npx dev-joke-bot --category Languages --color mind
 
 <!-- JOKE_START -->
 💻 Dev Joke 💻
-📂 Category: Network
+📂 Category: General
 
-There's no place like 127.0.0.1| | | | | 
+Why did the developer go broke? Because he used up all his cache.| | | | | 
 
 
 <!-- JOKE_END -->
