@@ -132,9 +132,9 @@ npx dev-joke-bot --category Languages --color mind
 
 <!-- JOKE_START -->
 💻 Dev Joke 💻
-📂 Category: Algorithms
+📂 Category: Git
 
-To understand recursion, you must first understand recursion.| | | | | 
+Git happens.| | | | | 
 
 
 <!-- JOKE_END -->
