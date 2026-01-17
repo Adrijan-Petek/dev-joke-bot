@@ -132,9 +132,9 @@ npx dev-joke-bot --category Languages --color mind
 
 <!-- JOKE_START -->
 💻 Dev Joke 💻
-📂 Category: General
+📂 Category: OS
 
-Old programmers never die, they just lose their memory.| | | | | 
+In a world without fences and walls, who needs Gates and Windows?| | | | | 
 
 
 <!-- JOKE_END -->
