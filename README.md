@@ -132,9 +132,9 @@ npx dev-joke-bot --category Languages --color mind
 
 <!-- JOKE_START -->
 💻 Dev Joke 💻
-📂 Category: OS
+📂 Category: UI/UX
 
-In a world without fences and walls, who needs Gates and Windows?| | | | | 
+A user interface is like a joke. If you have to explain it, it's not that good.| | | | | 
 
 
 <!-- JOKE_END -->
