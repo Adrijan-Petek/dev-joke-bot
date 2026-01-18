@@ -132,9 +132,9 @@ npx dev-joke-bot --category Languages --color mind
 
 <!-- JOKE_START -->
 💻 Dev Joke 💻
-📂 Category: Testing
+📂 Category: SQL
 
-I don't always test my code, but when I do, I do it in production.| | | | | 
+A SQL query walks into a bar, walks up to two tables and asks, 'Can I join you?'| | | | | 
 
 
 <!-- JOKE_END -->
