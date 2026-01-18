@@ -132,9 +132,9 @@ npx dev-joke-bot --category Languages --color mind
 
 <!-- JOKE_START -->
 💻 Dev Joke 💻
-📂 Category: UI/UX
+📂 Category: Testing
 
-A user interface is like a joke. If you have to explain it, it's not that good.| | | | | 
+I don't always test my code, but when I do, I do it in production.| | | | | 
 
 
 <!-- JOKE_END -->
