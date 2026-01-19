@@ -132,9 +132,9 @@ npx dev-joke-bot --category Languages --color mind
 
 <!-- JOKE_START -->
 💻 Dev Joke 💻
-📂 Category: Debugging
+📂 Category: Network
 
-Debugging: Being the detective in a crime movie where you are also the murderer.| | | | | 
+There's no place like 127.0.0.1| | | | | 
 
 
 <!-- JOKE_END -->
