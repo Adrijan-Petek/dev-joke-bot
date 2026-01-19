@@ -132,9 +132,9 @@ npx dev-joke-bot --category Languages --color mind
 
 <!-- JOKE_START -->
 💻 Dev Joke 💻
-📂 Category: SQL
+📂 Category: Debugging
 
-A SQL query walks into a bar, walks up to two tables and asks, 'Can I join you?'| | | | | 
+Debugging: Being the detective in a crime movie where you are also the murderer.| | | | | 
 
 
 <!-- JOKE_END -->
