@@ -132,9 +132,9 @@ npx dev-joke-bot --category Languages --color mind
 
 <!-- JOKE_START -->
 💻 Dev Joke 💻
-📂 Category: Network
+📂 Category: General
 
-There's no place like 127.0.0.1| | | | | 
+I would love to change the world, but they won't give me the source code.| | | | | 
 
 
 <!-- JOKE_END -->
