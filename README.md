@@ -134,7 +134,7 @@ npx dev-joke-bot --category Languages --color mind
 💻 Dev Joke 💻
 📂 Category: General
 
-I would love to change the world, but they won't give me the source code.| | | | | 
+0 is false and 1 is true, right? 1| | | | | 
 
 
 <!-- JOKE_END -->
