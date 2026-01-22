@@ -134,7 +134,7 @@ npx dev-joke-bot --category Languages --color mind
 💻 Dev Joke 💻
 📂 Category: General
 
-Old programmers never die, they just lose their memory.| | | | | 
+Why did the developer go broke? Because he used up all his cache.| | | | | 
 
 
 <!-- JOKE_END -->
