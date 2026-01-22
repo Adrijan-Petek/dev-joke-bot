@@ -132,9 +132,9 @@ npx dev-joke-bot --category Languages --color mind
 
 <!-- JOKE_START -->
 💻 Dev Joke 💻
-📂 Category: General
+📂 Category: Languages
 
-Why did the developer go broke? Because he used up all his cache.| | | | | 
+Why do Java developers wear glasses? Because they don't C#.| | | | | 
 
 
 <!-- JOKE_END -->
