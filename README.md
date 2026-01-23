@@ -132,9 +132,9 @@ npx dev-joke-bot --category Languages --color mind
 
 <!-- JOKE_START -->
 💻 Dev Joke 💻
-📂 Category: Languages
+📂 Category: General
 
-Why do Java developers wear glasses? Because they don't C#.| | | | | 
+Programmer's spouse: 'Go to the store and get a loaf of bread. If they have eggs, get a dozen.' Programmer comes back with 12 loaves of bread.| | | | | 
 
 
 <!-- JOKE_END -->
