@@ -133,9 +133,9 @@ npx dev-joke-bot --category Languages --color mind
 
 <!-- JOKE_START -->
 💻 Dev Joke 💻
-📂 Category: General
+📂 Category: Algorithms
 
-I would love to change the world, but they won't give me the source code.| | | | | 
+To understand recursion, you must first understand recursion.| | | | | 
 
 
 <!-- JOKE_END -->
