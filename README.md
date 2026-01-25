@@ -133,9 +133,9 @@ npx dev-joke-bot --category Languages --color mind
 
 <!-- JOKE_START -->
 💻 Dev Joke 💻
-📂 Category: General
+📂 Category: OS
 
-I would love to change the world, but they won't give me the source code.| | | | | 
+In a world without fences and walls, who needs Gates and Windows?| | | | | 
 
 
 <!-- JOKE_END -->
