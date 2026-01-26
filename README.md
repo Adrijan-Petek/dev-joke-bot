@@ -133,9 +133,9 @@ npx dev-joke-bot --category Languages --color mind
 
 <!-- JOKE_START -->
 💻 Dev Joke 💻
-📂 Category: Git
+📂 Category: General
 
-Git happens.| | | | | 
+Programmer: A machine that turns coffee into code.| | | | | 
 
 
 <!-- JOKE_END -->
