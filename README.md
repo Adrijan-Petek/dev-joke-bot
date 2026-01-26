@@ -133,9 +133,9 @@ npx dev-joke-bot --category Languages --color mind
 
 <!-- JOKE_START -->
 💻 Dev Joke 💻
-📂 Category: OS
+📂 Category: Git
 
-In a world without fences and walls, who needs Gates and Windows?| | | | | 
+Git happens.| | | | | 
 
 
 <!-- JOKE_END -->
