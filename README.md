@@ -136,7 +136,7 @@ npx dev-joke-bot --category Languages --color mind
 💻 Dev Joke 💻
 📂 Category: General
 
-Programmer: A machine that turns coffee into code.| | | | | 
+Why did the developer go broke? Because he used up all his cache.| | | | | 
 
 
 <!-- JOKE_END -->
