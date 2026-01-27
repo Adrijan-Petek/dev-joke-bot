@@ -134,9 +134,9 @@ npx dev-joke-bot --category Languages --color mind
 
 <!-- JOKE_START -->
 💻 Dev Joke 💻
-📂 Category: General
+📂 Category: OS
 
-Why did the developer go broke? Because he used up all his cache.| | | | | 
+In a world without fences and walls, who needs Gates and Windows?| | | | | 
 
 
 <!-- JOKE_END -->
