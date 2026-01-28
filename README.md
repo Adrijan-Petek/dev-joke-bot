@@ -134,9 +134,9 @@ npx dev-joke-bot --category Languages --color mind
 
 <!-- JOKE_START -->
 💻 Dev Joke 💻
-📂 Category: OS
+📂 Category: General
 
-In a world without fences and walls, who needs Gates and Windows?| | | | | 
+Life would be easier if we just had a GUI for everything.| | | | | 
 
 
 <!-- JOKE_END -->
