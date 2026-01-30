@@ -134,9 +134,9 @@ npx dev-joke-bot --category Languages --color mind
 
 <!-- JOKE_START -->
 💻 Dev Joke 💻
-📂 Category: Testing
+📂 Category: General
 
-I don't always test my code, but when I do, I do it in production.| | | | | 
+Why did the programmer quit his job? Because he didn't get arrays.| | | | | 
 
 
 <!-- JOKE_END -->
