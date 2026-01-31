@@ -134,9 +134,9 @@ npx dev-joke-bot --category Languages --color mind
 
 <!-- JOKE_START -->
 💻 Dev Joke 💻
-📂 Category: Languages
+📂 Category: General
 
-Why do Java developers wear glasses? Because they don't C#.| | | | | 
+0 is false and 1 is true, right? 1| | | | | 
 
 
 <!-- JOKE_END -->
