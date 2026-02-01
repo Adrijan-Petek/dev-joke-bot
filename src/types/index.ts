@@ -16,4 +16,5 @@ export interface CommandOptions {
   help?: boolean;
   list?: boolean;
   stats?: boolean;
+  readme?: boolean;
 }

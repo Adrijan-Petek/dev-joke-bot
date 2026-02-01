@@ -1,7 +1,6 @@
 #!/usr/bin/env node
 import {
   getRandomJoke,
-  typeText,
   printJoke,
   showHelp,
   listCategories,
@@ -9,14 +8,21 @@ import {
   searchJokes,
   getJokesByCategory,
   getRandomJokes,
+  formatJokeForReadme,
 } from "../dist/bot.js";
 
 async function run() {
   const args = process.argv.slice(2);
 
-  // Show help by default if no arguments
+  // Show help
   if (args.includes("--help")) {
     showHelp();
+    return;
+  }
+
+  if (args.includes("--readme")) {
+    const joke = await getRandomJoke();
+    process.stdout.write(formatJokeForReadme(joke));
     return;
   }
 

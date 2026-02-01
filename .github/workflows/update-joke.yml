@@ -1,76 +1,74 @@
-name: Update Joke
+name: Update README Joke
 
 on:
-  push:
-    branches:
-      - main
-    # Ignore commits made by the bot to prevent infinite loops
-    paths-ignore:
-      - README.md
   schedule:
-    - cron: "0 */12 * * *"  # every 12 hours (UTC)
-  workflow_dispatch:         # manual trigger
+    - cron: "0 */12 * * *" # every 12 hours (UTC)
+  workflow_dispatch:
+
+concurrency:
+  group: update-readme-joke-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions: {}
 
 jobs:
   update-readme:
     name: Update README with new joke
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     permissions:
-      contents: write  # allow pushing changes
+      contents: write
 
     steps:
-      # Checkout repository
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      # Setup Node.js
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: "20"
+          cache: "npm"
 
-      # Install dependencies
       - name: Install dependencies
-        run: npm install
+        run: npm ci
 
-      # Build TypeScript project
       - name: Build project
         run: npm run build
 
-      # Generate joke
-      - name: Generate joke
-        id: generate-joke
+      - name: Generate README snippet
+        id: joke
         run: |
-          # Run Node script and safely escape it for JSON
-          JOKE=$(node dist/bot.js | jq -Rs .)
-          echo "Generated joke: $JOKE"
-          echo "joke=$JOKE" >> $GITHUB_OUTPUT
+          echo "snippet<<EOF" >> "$GITHUB_OUTPUT"
+          node dist/bot.js --readme >> "$GITHUB_OUTPUT"
+          echo "EOF" >> "$GITHUB_OUTPUT"
 
-      # Update README with the generated joke
-      - name: Update README with Joke
+      - name: Update README
         run: |
           node -e '
           const fs = require("fs");
-          const joke = JSON.parse(process.env.JOKE);
+          const joke = process.env.SNIPPET;
           const readme = fs.readFileSync("README.md", "utf-8");
           const updated = readme.replace(
-            /<!-- JOKE_START -->[\s\S]*<!-- JOKE_END -->/, 
+            /<!-- JOKE_START -->[\s\S]*<!-- JOKE_END -->/,
             `<!-- JOKE_START -->\n${joke}\n<!-- JOKE_END -->`
           );
+          if (updated === readme) {
+            throw new Error("README markers not found or content unchanged.");
+          }
           fs.writeFileSync("README.md", updated);
           console.log("README updated with new joke");
           '
         env:
-          JOKE: ${{ steps.generate-joke.outputs.joke }}
+          SNIPPET: ${{ steps.joke.outputs.snippet }}
 
-      # Commit & push updated README
-      - name: Commit and Push Joke
+      - name: Commit and push (if changed)
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Update joke"
+            git commit -m "chore(readme): update dev joke"
             git push
           fi

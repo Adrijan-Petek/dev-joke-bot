@@ -1,6 +1,6 @@
 import fs from "fs/promises";
 import path from "path";
-import { fileURLToPath } from "url";
+import { fileURLToPath, pathToFileURL } from "url";
 import chalk from "chalk";
 import gradient from "gradient-string";
 import { Joke, JokesData, CommandOptions } from "./types/index.js";
@@ -88,6 +88,10 @@ export async function getCategories(): Promise<string[]> {
   return Array.from(categories).sort();
 }
 
+export function formatJokeForReadme(joke: Joke): string {
+  return `**Category:** ${joke.category}\n\n${joke.text.trimEnd()}\n`;
+}
+
 // Print joke with optional color theme
 export async function printJoke(
   joke: Joke,
@@ -124,6 +128,7 @@ export function showHelp() {
   console.log("  --search <keyword>  Search jokes by keyword");
   console.log("  --count <n>         Get n random jokes (default: 1)");
   console.log("  --color <theme>     Color theme (pastel/rainbow/mind/retro)");
+  console.log("  --readme            Output plain Markdown (for README updates)");
   console.log();
   console.log(chalk.bold("Examples:"));
   console.log("  npx dev-joke-bot");
@@ -182,6 +187,8 @@ async function main() {
     const arg = args[i];
     if (arg === "--help") {
       options.help = true;
+    } else if (arg === "--readme") {
+      options.readme = true;
     } else if (arg === "--list") {
       options.list = true;
     } else if (arg === "--stats") {
@@ -200,6 +207,13 @@ async function main() {
   // Handle help
   if (options.help) {
     showHelp();
+    return;
+  }
+
+  // Output a plain Markdown snippet (used by CI/README updates)
+  if (options.readme) {
+    const joke = await getRandomJoke();
+    process.stdout.write(formatJokeForReadme(joke));
     return;
   }
 
@@ -260,7 +274,13 @@ async function main() {
   await printJoke(joke, options.color || "pastel");
 }
 
-main().catch((err) => {
-  console.error(chalk.red("Error:"), err.message);
-  process.exit(1);
-});
+const isDirectRun =
+  process.argv[1] &&
+  import.meta.url === pathToFileURL(path.resolve(process.argv[1])).href;
+
+if (isDirectRun) {
+  main().catch((err) => {
+    console.error(chalk.red("Error:"), err.message);
+    process.exit(1);
+  });
+}
