@@ -1,6 +1,11 @@
 name: Update README Joke
 
 on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - README.md
   schedule:
     - cron: "0 */12 * * *" # every 12 hours (UTC)
   workflow_dispatch:
