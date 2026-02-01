@@ -136,7 +136,7 @@ npx dev-joke-bot --category Languages --color mind
 💻 Dev Joke 💻
 📂 Category: General
 
-0 is false and 1 is true, right? 1| | | | | 
+Programmer: A machine that turns coffee into code.| | | | | 
 
 
 <!-- JOKE_END -->
