@@ -52,9 +52,9 @@ npx dev-joke-bot --count 3
 This section is updated by `.github/workflows/update-joke.yml` on a schedule (every 12 hours, UTC).
 
 <!-- JOKE_START -->
-**Category:** General
+**Category:** SQL
 
-Life would be easier if we just had a GUI for everything.
+A SQL query walks into a bar, walks up to two tables and asks, 'Can I join you?'
 <!-- JOKE_END -->
 
 ## Adding jokes
