@@ -54,7 +54,7 @@ This section is updated by `.github/workflows/update-joke.yml` on a schedule (ev
 <!-- JOKE_START -->
 **Category:** General
 
-Old programmers never die, they just lose their memory.
+Programmer: A machine that turns coffee into code.
 <!-- JOKE_END -->
 
 ## Adding jokes
