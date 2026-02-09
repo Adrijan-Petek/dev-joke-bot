@@ -1,5 +1,6 @@
 # Dev Joke Bot
 
+
 A small Node.js/TypeScript CLI that prints random developer jokes from a local JSON database. The README can be automatically updated on a schedule with a rotating joke via GitHub Actions.
 
 ## Features
