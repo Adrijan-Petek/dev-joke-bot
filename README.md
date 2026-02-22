@@ -53,9 +53,9 @@ npx dev-joke-bot --count 3
 This section is updated by `.github/workflows/update-joke.yml` on a schedule (every 12 hours, UTC).
 
 <!-- JOKE_START -->
-**Category:** General
+**Category:** Algorithms
 
-I would love to change the world, but they won't give me the source code.
+To understand recursion, you must first understand recursion.
 <!-- JOKE_END -->
 
 ## Adding jokes
