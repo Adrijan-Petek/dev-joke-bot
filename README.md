@@ -53,9 +53,9 @@ npx dev-joke-bot --count 3
 This section is updated by `.github/workflows/update-joke.yml` on a schedule (every 12 hours, UTC).
 
 <!-- JOKE_START -->
-**Category:** General
+**Category:** Testing
 
-Why did the programmer quit his job? Because he didn't get arrays.
+I don't always test my code, but when I do, I do it in production.
 <!-- JOKE_END -->
 
 ## Adding jokes
