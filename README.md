@@ -53,9 +53,9 @@ npx dev-joke-bot --count 3
 This section is updated by `.github/workflows/update-joke.yml` on a schedule (every 12 hours, UTC).
 
 <!-- JOKE_START -->
-**Category:** SQL
+**Category:** General
 
-A SQL query walks into a bar, walks up to two tables and asks, 'Can I join you?'
+Why did the programmer quit his job? Because he didn't get arrays.
 <!-- JOKE_END -->
 
 ## Adding jokes
