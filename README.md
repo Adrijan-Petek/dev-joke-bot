@@ -55,7 +55,7 @@ This section is updated by `.github/workflows/update-joke.yml` on a schedule (ev
 <!-- JOKE_START -->
 **Category:** General
 
-There are only 10 types of people in the world: those who understand binary and those who don't.
+Why did the programmer quit his job? Because he didn't get arrays.
 <!-- JOKE_END -->
 
 ## Adding jokes
