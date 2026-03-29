@@ -53,9 +53,9 @@ npx dev-joke-bot --count 3
 This section is updated by `.github/workflows/update-joke.yml` on a schedule (every 12 hours, UTC).
 
 <!-- JOKE_START -->
-**Category:** Testing
+**Category:** General
 
-I don't always test my code, but when I do, I do it in production.
+There are only 10 types of people in the world: those who understand binary and those who don't.
 <!-- JOKE_END -->
 
 ## Adding jokes
