@@ -53,9 +53,9 @@ npx dev-joke-bot --count 3
 This section is updated by `.github/workflows/update-joke.yml` on a schedule (every 12 hours, UTC).
 
 <!-- JOKE_START -->
-**Category:** General
+**Category:** Languages
 
-I would love to change the world, but they won't give me the source code.
+A programmer had a problem and decided to use Java. Now they have a ProblemFactory.
 <!-- JOKE_END -->
 
 ## Adding jokes
