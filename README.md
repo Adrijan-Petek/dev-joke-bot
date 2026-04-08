@@ -53,9 +53,9 @@ npx dev-joke-bot --count 3
 This section is updated by `.github/workflows/update-joke.yml` on a schedule (every 12 hours, UTC).
 
 <!-- JOKE_START -->
-**Category:** Network
+**Category:** General
 
-There's no place like 127.0.0.1
+Life would be easier if we just had a GUI for everything.
 <!-- JOKE_END -->
 
 ## Adding jokes
