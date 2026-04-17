@@ -53,9 +53,9 @@ npx dev-joke-bot --count 3
 This section is updated by `.github/workflows/update-joke.yml` on a schedule (every 12 hours, UTC).
 
 <!-- JOKE_START -->
-**Category:** General
+**Category:** Languages
 
-Why did the developer go broke? Because he used up all his cache.
+Why do Java developers wear glasses? Because they don't C#.
 <!-- JOKE_END -->
 
 ## Adding jokes
