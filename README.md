@@ -53,9 +53,9 @@ npx dev-joke-bot --count 3
 This section is updated by `.github/workflows/update-joke.yml` on a schedule (every 12 hours, UTC).
 
 <!-- JOKE_START -->
-**Category:** Debugging
+**Category:** Languages
 
-Debugging: Being the detective in a crime movie where you are also the murderer.
+Why do Java developers wear glasses? Because they don't C#.
 <!-- JOKE_END -->
 
 ## Adding jokes
