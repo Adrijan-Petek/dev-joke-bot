@@ -53,9 +53,9 @@ npx dev-joke-bot --count 3
 This section is updated by `.github/workflows/update-joke.yml` on a schedule (every 12 hours, UTC).
 
 <!-- JOKE_START -->
-**Category:** General
+**Category:** Algorithms
 
-Old programmers never die, they just lose their memory.
+To understand recursion, you must first understand recursion.
 <!-- JOKE_END -->
 
 ## Adding jokes
