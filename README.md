@@ -55,7 +55,7 @@ This section is updated by `.github/workflows/update-joke.yml` on a schedule (ev
 <!-- JOKE_START -->
 **Category:** Languages
 
-A programmer had a problem and decided to use Java. Now they have a ProblemFactory.
+Why do Java developers wear glasses? Because they don't C#.
 <!-- JOKE_END -->
 
 ## Adding jokes
