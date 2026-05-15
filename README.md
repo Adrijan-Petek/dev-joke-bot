@@ -53,9 +53,9 @@ npx dev-joke-bot --count 3
 This section is updated by `.github/workflows/update-joke.yml` on a schedule (every 12 hours, UTC).
 
 <!-- JOKE_START -->
-**Category:** Git
+**Category:** General
 
-Git happens.
+Programmer: A machine that turns coffee into code.
 <!-- JOKE_END -->
 
 ## Adding jokes
