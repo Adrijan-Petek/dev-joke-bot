@@ -55,7 +55,7 @@ This section is updated by `.github/workflows/update-joke.yml` on a schedule (ev
 <!-- JOKE_START -->
 **Category:** General
 
-0 is false and 1 is true, right? 1
+Why do programmers prefer dark mode? Because light attracts bugs.
 <!-- JOKE_END -->
 
 ## Adding jokes
