@@ -53,9 +53,9 @@ npx dev-joke-bot --count 3
 This section is updated by `.github/workflows/update-joke.yml` on a schedule (every 12 hours, UTC).
 
 <!-- JOKE_START -->
-**Category:** General
+**Category:** Languages
 
-Old programmers never die, they just lose their memory.
+A programmer had a problem and decided to use Java. Now they have a ProblemFactory.
 <!-- JOKE_END -->
 
 ## Adding jokes
