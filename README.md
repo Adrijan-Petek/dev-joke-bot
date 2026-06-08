@@ -55,7 +55,7 @@ This section is updated by `.github/workflows/update-joke.yml` on a schedule (ev
 <!-- JOKE_START -->
 **Category:** General
 
-Why do programmers prefer dark mode? Because light attracts bugs.
+I would love to change the world, but they won't give me the source code.
 <!-- JOKE_END -->
 
 ## Adding jokes
