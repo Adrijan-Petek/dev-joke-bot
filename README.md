@@ -53,9 +53,9 @@ npx dev-joke-bot --count 3
 This section is updated by `.github/workflows/update-joke.yml` on a schedule (every 12 hours, UTC).
 
 <!-- JOKE_START -->
-**Category:** SQL
+**Category:** General
 
-A SQL query walks into a bar, walks up to two tables and asks, 'Can I join you?'
+Old programmers never die, they just lose their memory.
 <!-- JOKE_END -->
 
 ## Adding jokes
