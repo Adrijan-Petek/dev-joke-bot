@@ -53,9 +53,9 @@ npx dev-joke-bot --count 3
 This section is updated by `.github/workflows/update-joke.yml` on a schedule (every 12 hours, UTC).
 
 <!-- JOKE_START -->
-**Category:** Testing
+**Category:** UI/UX
 
-I don't always test my code, but when I do, I do it in production.
+A user interface is like a joke. If you have to explain it, it's not that good.
 <!-- JOKE_END -->
 
 ## Adding jokes
