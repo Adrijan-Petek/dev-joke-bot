@@ -53,9 +53,9 @@ npx dev-joke-bot --count 3
 This section is updated by `.github/workflows/update-joke.yml` on a schedule (every 12 hours, UTC).
 
 <!-- JOKE_START -->
-**Category:** Network
+**Category:** OS
 
-There's no place like 127.0.0.1
+In a world without fences and walls, who needs Gates and Windows?
 <!-- JOKE_END -->
 
 ## Adding jokes
