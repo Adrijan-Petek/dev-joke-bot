@@ -53,9 +53,9 @@ npx dev-joke-bot --count 3
 This section is updated by `.github/workflows/update-joke.yml` on a schedule (every 12 hours, UTC).
 
 <!-- JOKE_START -->
-**Category:** Languages
+**Category:** Network
 
-Why do Java developers wear glasses? Because they don't C#.
+There's no place like 127.0.0.1
 <!-- JOKE_END -->
 
 ## Adding jokes
