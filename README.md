@@ -53,9 +53,9 @@ npx dev-joke-bot --count 3
 This section is updated by `.github/workflows/update-joke.yml` on a schedule (every 12 hours, UTC).
 
 <!-- JOKE_START -->
-**Category:** Languages
+**Category:** General
 
-A programmer had a problem and decided to use Java. Now they have a ProblemFactory.
+There are only 10 types of people in the world: those who understand binary and those who don't.
 <!-- JOKE_END -->
 
 ## Adding jokes
