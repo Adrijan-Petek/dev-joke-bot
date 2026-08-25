@@ -53,9 +53,9 @@ npx dev-joke-bot --count 3
 This section is updated by `.github/workflows/update-joke.yml` on a schedule (every 12 hours, UTC).
 
 <!-- JOKE_START -->
-**Category:** General
+**Category:** Algorithms
 
-Programmer: A machine that turns coffee into code.
+To understand recursion, you must first understand recursion.
 <!-- JOKE_END -->
 
 ## Adding jokes
