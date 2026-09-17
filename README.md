@@ -55,7 +55,7 @@ This section is updated by `.github/workflows/update-joke.yml` on a schedule (ev
 <!-- JOKE_START -->
 **Category:** General
 
-Why did the developer go broke? Because he used up all his cache.
+Life would be easier if we just had a GUI for everything.
 <!-- JOKE_END -->
 
 ## Adding jokes
