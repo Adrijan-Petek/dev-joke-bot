@@ -55,7 +55,7 @@ This section is updated by `.github/workflows/update-joke.yml` on a schedule (ev
 <!-- JOKE_START -->
 **Category:** General
 
-Why did the developer go broke? Because he used up all his cache.
+Why do programmers prefer dark mode? Because light attracts bugs.
 <!-- JOKE_END -->
 
 ## Adding jokes
