@@ -53,9 +53,9 @@ npx dev-joke-bot --count 3
 This section is updated by `.github/workflows/update-joke.yml` on a schedule (every 12 hours, UTC).
 
 <!-- JOKE_START -->
-**Category:** General
+**Category:** Languages
 
-0 is false and 1 is true, right? 1
+A programmer had a problem and decided to use Java. Now they have a ProblemFactory.
 <!-- JOKE_END -->
 
 ## Adding jokes
