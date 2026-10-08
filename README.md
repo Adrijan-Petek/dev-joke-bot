@@ -53,9 +53,9 @@ npx dev-joke-bot --count 3
 This section is updated by `.github/workflows/update-joke.yml` on a schedule (every 12 hours, UTC).
 
 <!-- JOKE_START -->
-**Category:** UI/UX
+**Category:** General
 
-A user interface is like a joke. If you have to explain it, it's not that good.
+Old programmers never die, they just lose their memory.
 <!-- JOKE_END -->
 
 ## Adding jokes
