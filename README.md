@@ -55,7 +55,7 @@ This section is updated by `.github/workflows/update-joke.yml` on a schedule (ev
 <!-- JOKE_START -->
 **Category:** General
 
-Life would be easier if we just had a GUI for everything.
+Programmer: A machine that turns coffee into code.
 <!-- JOKE_END -->
 
 ## Adding jokes
