@@ -55,7 +55,7 @@ This section is updated by `.github/workflows/update-joke.yml` on a schedule (ev
 <!-- JOKE_START -->
 **Category:** General
 
-There are only 10 types of people in the world: those who understand binary and those who don't.
+0 is false and 1 is true, right? 1
 <!-- JOKE_END -->
 
 ## Adding jokes
