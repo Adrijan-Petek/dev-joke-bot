@@ -53,9 +53,9 @@ npx dev-joke-bot --count 3
 This section is updated by `.github/workflows/update-joke.yml` on a schedule (every 12 hours, UTC).
 
 <!-- JOKE_START -->
-**Category:** General
+**Category:** Debugging
 
-Old programmers never die, they just lose their memory.
+Debugging: Being the detective in a crime movie where you are also the murderer.
 <!-- JOKE_END -->
 
 ## Adding jokes
