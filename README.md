@@ -53,9 +53,9 @@ npx dev-joke-bot --count 3
 This section is updated by `.github/workflows/update-joke.yml` on a schedule (every 12 hours, UTC).
 
 <!-- JOKE_START -->
-**Category:** General
+**Category:** Debugging
 
-There are only 10 types of people in the world: those who understand binary and those who don't.
+Debugging: Being the detective in a crime movie where you are also the murderer.
 <!-- JOKE_END -->
 
 ## Adding jokes
