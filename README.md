@@ -55,7 +55,7 @@ This section is updated by `.github/workflows/update-joke.yml` on a schedule (ev
 <!-- JOKE_START -->
 **Category:** General
 
-Why did the developer go broke? Because he used up all his cache.
+There are only 10 types of people in the world: those who understand binary and those who don't.
 <!-- JOKE_END -->
 
 ## Adding jokes
