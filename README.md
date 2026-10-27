@@ -55,7 +55,7 @@ This section is updated by `.github/workflows/update-joke.yml` on a schedule (ev
 <!-- JOKE_START -->
 **Category:** General
 
-I would love to change the world, but they won't give me the source code.
+0 is false and 1 is true, right? 1
 <!-- JOKE_END -->
 
 ## Adding jokes
