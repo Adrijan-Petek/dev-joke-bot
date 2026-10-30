@@ -53,9 +53,9 @@ npx dev-joke-bot --count 3
 This section is updated by `.github/workflows/update-joke.yml` on a schedule (every 12 hours, UTC).
 
 <!-- JOKE_START -->
-**Category:** Debugging
+**Category:** General
 
-Debugging: Being the detective in a crime movie where you are also the murderer.
+I would love to change the world, but they won't give me the source code.
 <!-- JOKE_END -->
 
 ## Adding jokes
