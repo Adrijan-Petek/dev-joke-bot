@@ -55,7 +55,7 @@ This section is updated by `.github/workflows/update-joke.yml` on a schedule (ev
 <!-- JOKE_START -->
 **Category:** General
 
-I would love to change the world, but they won't give me the source code.
+Programmer's spouse: 'Go to the store and get a loaf of bread. If they have eggs, get a dozen.' Programmer comes back with 12 loaves of bread.
 <!-- JOKE_END -->
 
 ## Adding jokes
