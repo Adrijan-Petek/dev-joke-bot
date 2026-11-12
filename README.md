@@ -53,9 +53,9 @@ npx dev-joke-bot --count 3
 This section is updated by `.github/workflows/update-joke.yml` on a schedule (every 12 hours, UTC).
 
 <!-- JOKE_START -->
-**Category:** OS
+**Category:** General
 
-In a world without fences and walls, who needs Gates and Windows?
+Why did the programmer quit his job? Because he didn't get arrays.
 <!-- JOKE_END -->
 
 ## Adding jokes
